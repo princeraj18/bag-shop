@@ -18,5 +18,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princeraj18/bag-shop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/princeraj18/bag-shop/issues"
+  },
+  "homepage": "https://github.com/princeraj18/bag-shop#readme"
 }
