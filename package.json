@@ -1,7 +1,10 @@
 {
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "config": "^4.1.1",
     "cookie-parser": "^1.4.7",
+    "debug": "^4.4.3",
+    "debugger": "^1.0.0",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
@@ -19,7 +22,6 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/princeraj18/bag-shop.git"
