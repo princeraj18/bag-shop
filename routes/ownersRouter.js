@@ -21,8 +21,8 @@ let createdOwner=await ownerModel.create({
 });
 res.status(201).send(createdOwner); 
 })
-router.get("/",function(req,res){
-    res.send("hey it's working....");
+router.get("/admin",function(req,res){
+    res.render("createproducts");
 });
 }
 
